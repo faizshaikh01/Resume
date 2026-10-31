@@ -18,7 +18,7 @@ M.Tech Computer Science student at NIT Jalandhar with a background in software d
 
 **Resume**
 
-[View / Download Resume (PDF)](faiz_resume.pdf)
+[View / Download Resume (PDF)](faiz%20new%20resume.pdf)
 
 **Education**
 
